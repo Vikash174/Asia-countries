@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Internship Assignment</string>
+    <string name="name">Name</string>
+
+    <string name="flag_image">flag Image</string>
+    <string name="capital">Capital:</string>
+    <string name="new_delhi">New Delhi</string>
+    <string name="india">India</string>
+    <string name="languages">Languages :</string>
+    <string name="region">Region:</string>
+    <string name="east_asia">East Asia</string>
+    <string name="sub_region">Sub Region:</string>
+    <string name="asia">Asia</string>
+    <string name="_34354554">34354554</string>
+    <string name="population">Population:</string>
+    <string name="_34543634">34543634</string>
+    <string name="borders">Borders:</string>
+    <string name="pakistan_china_bangladesh_nepal">Pakistan, China, Bangladesh, Nepal</string>
+    <string name="hindi_urdu_marthi_kannad_telgu">Hindi, Urdu, Marthi, Kannad, Telgu</string>
+</resources>
